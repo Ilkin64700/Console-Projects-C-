@@ -1,0 +1,14 @@
+C:\Users\memme\Desktop\P221\Task\HosbitalManagmentTask\HosbitalManagmentTask\obj\Debug\HosbitalManagmentTask.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P221\Task\HosbitalManagmentTask\HosbitalManagmentTask\obj\Debug\HosbitalManagmentTask.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P221\Task\HosbitalManagmentTask\HosbitalManagmentTask\bin\Debug\HosbitalManagmentTask.exe.config
+C:\Users\memme\Desktop\P221\Task\HosbitalManagmentTask\HosbitalManagmentTask\bin\Debug\HosbitalManagmentTask.exe
+C:\Users\memme\Desktop\P221\Task\HosbitalManagmentTask\HosbitalManagmentTask\bin\Debug\HosbitalManagmentTask.pdb
+C:\Users\memme\Desktop\P221\Task\HosbitalManagmentTask\HosbitalManagmentTask\obj\Debug\HosbitalManagmentTask.exe
+C:\Users\memme\Desktop\P221\Task\HosbitalManagmentTask\HosbitalManagmentTask\obj\Debug\HosbitalManagmentTask.pdb
+C:\Users\ASUS\Desktop\Console_Project\p221_csharp_22-06-2021_praktika_consoleproject-Ilkin64700\HosbitalManagmentTask\HosbitalManagmentTask\bin\Debug\HosbitalManagmentTask.exe.config
+C:\Users\ASUS\Desktop\Console_Project\p221_csharp_22-06-2021_praktika_consoleproject-Ilkin64700\HosbitalManagmentTask\HosbitalManagmentTask\bin\Debug\HosbitalManagmentTask.exe
+C:\Users\ASUS\Desktop\Console_Project\p221_csharp_22-06-2021_praktika_consoleproject-Ilkin64700\HosbitalManagmentTask\HosbitalManagmentTask\bin\Debug\HosbitalManagmentTask.pdb
+C:\Users\ASUS\Desktop\Console_Project\p221_csharp_22-06-2021_praktika_consoleproject-Ilkin64700\HosbitalManagmentTask\HosbitalManagmentTask\obj\Debug\HosbitalManagmentTask.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Console_Project\p221_csharp_22-06-2021_praktika_consoleproject-Ilkin64700\HosbitalManagmentTask\HosbitalManagmentTask\obj\Debug\HosbitalManagmentTask.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Console_Project\p221_csharp_22-06-2021_praktika_consoleproject-Ilkin64700\HosbitalManagmentTask\HosbitalManagmentTask\obj\Debug\HosbitalManagmentTask.exe
+C:\Users\ASUS\Desktop\Console_Project\p221_csharp_22-06-2021_praktika_consoleproject-Ilkin64700\HosbitalManagmentTask\HosbitalManagmentTask\obj\Debug\HosbitalManagmentTask.pdb

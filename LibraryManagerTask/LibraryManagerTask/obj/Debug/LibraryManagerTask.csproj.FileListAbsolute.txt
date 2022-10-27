@@ -1,0 +1,7 @@
+C:\Users\memme\Desktop\P221\Task\LibraryManagerTask\LibraryManagerTask\bin\Debug\LibraryManagerTask.exe.config
+C:\Users\memme\Desktop\P221\Task\LibraryManagerTask\LibraryManagerTask\bin\Debug\LibraryManagerTask.exe
+C:\Users\memme\Desktop\P221\Task\LibraryManagerTask\LibraryManagerTask\bin\Debug\LibraryManagerTask.pdb
+C:\Users\memme\Desktop\P221\Task\LibraryManagerTask\LibraryManagerTask\obj\Debug\LibraryManagerTask.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P221\Task\LibraryManagerTask\LibraryManagerTask\obj\Debug\LibraryManagerTask.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P221\Task\LibraryManagerTask\LibraryManagerTask\obj\Debug\LibraryManagerTask.exe
+C:\Users\memme\Desktop\P221\Task\LibraryManagerTask\LibraryManagerTask\obj\Debug\LibraryManagerTask.pdb
